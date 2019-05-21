@@ -1,0 +1,97 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+
+.content{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,0);
+    background-color: #18BC9C;
+}
+
+.navbar-toggler-icon{
+    height: 1em;
+    opacity: 1;
+}
+
+.titulo-portfolio{
+    background-color: #18BC9C;
+    padding: 20px;
+}
+
+.bg-dark {
+    background-color: #2C3E50;
+}
+
+.form-group {
+    margin: 0;  
+}
+
+.form-group label {
+    margin: 0; 
+}
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid #18BC9C;
+    padding: 0;
+}
+
+footer {
+    background-color: #2C3E50;
+}
+
+.card {
+    background-color: #2C3E50;
+    border: none;    
+}
+
+.card-body {
+    background-color: #2C3E50;
+    border: none;
+    color: white;
+}
+
+ion-icon{
+    font-size: xx-large;
+}
+
+.otroestilo{
+    color: #18BC9C;
+}
+
+.separador {
+    position: relative;
+}
+
+.separador i {
+    position: relative;
+    background-color: #18BC9C;
+    border: 2px solid #18BC9C;
+    top: -13px;
+}
+
+.separador hr {
+    margin-bottom: 0;
+}
+
+.separador2 {
+    position: relative;
+}
+
+.separador2 i {
+    position: relative;
+    background-color: white;
+    border: 2px solid white;
+    top: -13px;
+}
+
+.separador2 hr {
+    margin-bottom: 0;
+}
+
